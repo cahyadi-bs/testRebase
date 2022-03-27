@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  OMNI_TEST: "urlTest"
+  OMNI_TEST: "urlTest",
+  OMNI_TEST3: "urlTest3"
 };
 
 /*
